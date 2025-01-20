@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: aquamarine;
+}
+#event{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+/* #two button{
+   background-color:palevioletred;
+    color: white;
+    border-radius: 10px;
+   padding: 10px;
+   border-color:palevioletred;
+
+} */
+
+.header{
+    width: 800px;
+    border: 2px solid black;
+    background-color: white;
+    height: 80vh;
+   margin-left: 400px;
+   margin-top: 30px;
+   border-radius: 20px;
+   
+}
+.one{
+    /* margin-left: 90px; */
+    margin-top: 20px;
+}
+.one input{
+    padding: 10px;
+    border-radius: 10px;
+   background-color: rgb(187, 110, 97);
+  border: none;
+
+   
+}
+.two input{
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+   background-color: rgb(187, 110, 97);
+  border: none;
+
+}
+
+.one input{
+    margin-right: 30px;
+}
+.three input{
+    padding: 10px;
+    border-radius: 10px;
+   background-color: rgb(187, 110, 97);
+  border: none;
+}
+.four input{
+    padding: 10px;
+    border-radius: 10px;
+   background-color: rgb(187, 110, 97);
+  border: none;
+}
+.six select {
+
+    padding: 10px;
+    border-radius: 10px;
+   background-color: rgb(187, 110, 97);
+  border: none;
+}
+
+table {
+    padding-left: 50px;
+    margin-top: 30px;
+  
+}
+button:hover{
+    cursor: pointer;
+    color: crimson;
+}

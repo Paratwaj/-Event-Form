@@ -1,0 +1,59 @@
+*{
+    margin: opx;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#head{
+text-transform: uppercase;
+background-color: black;
+color: white;
+padding: 20px;
+text-align: center;
+border-radius: 20px 20px 0px 0px;
+}
+body{
+    background-color: blueviolet;
+}
+#header{
+      width: 700px;
+      height: 80vh;
+      border: 2px solid ;
+      border-radius:20px;
+      margin-left: 30%;
+      margin-top: 50px;
+    background-color: white;
+}
+
+.font{
+  padding: 40px;
+  font-size: xx-large;
+  
+}
+.font button{
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+ button:hover{
+    color: crimson;
+    cursor: pointer;
+  
+ }
+ .font input,select{
+    padding: 20px;
+    border: none;
+    background-color: burlywood;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+ }
+
+ .button{
+    text-align: center;
+ }
+
+ .test{
+    margin-left: 30px;
+ }
